@@ -1,0 +1,24 @@
+.movie{
+    width: 1320px;
+    margin: 0 auto;
+}
+video{
+    width: 800px;
+    padding-left: 200px;
+}
+.fixed{
+	position: fixed;
+	right:100px;
+	bottom:100px;
+  }
+  .fixed:hover{
+	opacity:0.8;
+  }
+  .fixed2{
+	position: fixed;
+	right:100px;
+	bottom:40px;
+  }
+  .fixed2:hover{
+	opacity:0.8;
+  }
