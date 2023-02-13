@@ -19,6 +19,7 @@ body{
 	position: fixed;
 	right:100px;
 	bottom:40px;
+	z-index:999;
   }
   .fixed2:hover{
 	opacity:0.8;
